@@ -19,8 +19,8 @@ url: http://isaacdjx.github.io
 rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
-avatar: /assets/avatar/avatar.jpg
-favicon: /assets/avatar/avatar.ico
+avatar: /assets/pic/avatar/avatar.jpg
+favicon: /assets/pic/avatar/avatar.ico
 
 # google analytics 设置
 ga:
